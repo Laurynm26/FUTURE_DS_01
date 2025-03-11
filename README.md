@@ -1,17 +1,19 @@
-Author: Lauryn Mwendwa
-LinkedIn: www.linkedin.com/in/lauryn-mwendwa
+**Author: Lauryn Mwendwa**
+**LinkedIn: www.linkedin.com/in/lauryn-mwendwa**
 
 
-CUSTOMER SENTIMENT ANALYSIS REPORT
-Introduction
-Customer sentiment analysis is a crucial tool for businesses to understand customer perceptions and improve their services. This report analyzes customer reviews from e-commerce platforms or social media to classify sentiments as Positive, Negative, or Neutral using text processing and sentiment analysis. The insights gained from this analysis can help businesses make data-driven decisions to enhance customer satisfaction.
-Tools Used:
+**CUSTOMER SENTIMENT ANALYSIS REPORT**
+### *Introduction*
+### Customer sentiment analysis is a crucial tool for businesses to understand customer perceptions and improve their services.
+This report analyzes customer reviews from e-commerce platforms or social media to classify sentiments as Positive, Negative, or Neutral using text processing and sentiment analysis. 
+The insights gained from this analysis can help businesses make data-driven decisions to enhance customer satisfaction.
+*Tools Used:*
 •	Python (NLTK, TextBlob) – For text processing and sentiment classification.
 •	Power BI– For data visualization and trend analysis.
 
 
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 Sentiment Distribution Overview
 1.	Sentiment Breakdown (Pie Chart)
